@@ -5,8 +5,12 @@
 - Usei uma IA para analisar essas frases e trazer insights
 
 ## Prints
+Frase
+Hoje está um dia ensolarado.
+![alt text](1.PNG)
 
-
+A inteligência artificial está mudando o mundo.
+![alt text](2.PNG)
 
 ## O que aprendi
 
